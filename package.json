@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^3.0.0",
     "paper": "^0.12.7"
   }
 }
